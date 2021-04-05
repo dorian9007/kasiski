@@ -1,4 +1,3 @@
-
 print("")
 code = input("  [+] Der Code:  ")
 print("")
